@@ -1,3 +1,5 @@
 # C-Note-App
 just to practice some c programming
-pretty bad code 
+
+Uses txt file to keep note list and a cli to interface with notes.
+
